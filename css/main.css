@@ -1,1 +1,6 @@
 .negritas { font-weight:bold; }
+#principal{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #300279;
+}
